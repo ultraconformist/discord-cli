@@ -1,6 +1,8 @@
 # discord-cli
 Minimalistic Command-Line Interface for Discord
 
+Forked by Ultraconformist, in order to teach myself a few things and to rewrite it in C and implement an NCurses-based "GUI." We'll see where it goes!
+
 Master (Semi-Stable): [![Build Status](https://travis-ci.org/Rivalo/discord-cli.svg?branch=master)](https://travis-ci.org/Rivalo/discord-cli), Develop (Default Git Branch): [![Build Status](https://travis-ci.org/Rivalo/discord-cli.svg?branch=develop)](https://travis-ci.org/Rivalo/discord-cli)
 
 Join our Discord Chat! https://discord.gg/0pXWCo5RQbVuFHDM
